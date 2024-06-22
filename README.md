@@ -4,15 +4,18 @@ YOLO v8 (You Only Look Once version 8) is a state-of-the-art real-time object de
 # Key Features:
 Improved Accuracy: Utilizes advanced deep learning techniques to achieve high accuracy in object detection.
 
-# Real-Time Performance: Capable of processing video streams or images in real-time, making it suitable for applications like surveillance, robotics, and autonomous driving.
+# Real-Time Performance: 
+Capable of processing video streams or images in real-time, making it suitable for applications like surveillance, robotics, and autonomous driving.
 
-# Easy Integration: Designed with simplicity in mind for easy integration into existing projects and workflows.
+# Easy Integration:
+Designed with simplicity in mind for easy integration into existing projects and workflows.
 
-# Flexibility: Supports a wide range of object categories and can be customized for specific detection tasks.
+# Flexibility: 
+Supports a wide range of object categories and can be customized for specific detection tasks.
 
 # How to Use:
-# Installation: Clone the repository and install dependencies using pip:
-
+Installation: 
+Clone the repository and install dependencies using pip:
 bash
 Copy code
 git clone https://github.com/yourusername/yolo-v8.git
