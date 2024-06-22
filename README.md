@@ -14,7 +14,7 @@ Designed with simplicity in mind for easy integration into existing projects and
 Supports a wide range of object categories and can be customized for specific detection tasks.
 
 # How to Use:
-Installation: 
+Installation: \
 Clone the repository and install dependencies using pip:
 bash
 Copy code
