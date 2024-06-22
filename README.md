@@ -37,4 +37,4 @@ Special thanks to the open-source community for their contributions and support.
 Contact:
 For questions or inquiries, please contact umeradnaan@gmail.com.
 
-Adjust the placeholders such as yourusername, your-email@example.com, and the paths to files (CONTRIBUTING.md, LICENSE) according to your project's specifics. This README aims to provide an overview, installation instructions, and guidelines for contributions, which are typically useful sections for a GitHub repository hosting a project like YOLO v8.
+Adjust the placeholders such as umaradnaan123, umeradnaan@gmail.com, and the paths to files (CONTRIBUTING.md, LICENSE) according to your project's specifics. This README aims to provide an overview, installation instructions, and guidelines for contributions, which are typically useful sections for a GitHub repository hosting a project like YOLO v8.
