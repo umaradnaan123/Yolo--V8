@@ -18,7 +18,7 @@ Installation:
 Clone the repository and install dependencies using pip:
 bash
 Copy code
-git clone https://github.com/yourusername/yolo-v8.git
+git clone https://github.com/umaradnaan123/yolo-v8.git
 cd yolo-v8
 pip install -r requirements.txt
 Inference: Use pre-trained weights or train your own model on a dataset of your choice. Run inference on images or video streams with a simple command.
